@@ -1,9 +1,11 @@
-<h1 align="center'>
+<!-- 动态打字效果 -->
+<h1 align="center">
 	<a href="http://www.babara-chongya.ltd">
-		<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=37AD70&center=true&vCenter=true&lines=%F0%9F%8E%89My+blog%F0%9F%8E%89;print(%22Hello%2C+world!+(%E1%95%91%E1%97%A2%E1%93%AB%E2%88%97)%22)&center=true&vCenter=true">
+		<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=37AD70&center=true&vCenter=true&lines=%F0%9F%8E%89My+blog%F0%9F%8E%89;print(%22Hello%2C+world!+(%E1%95%91%E1%97%A2%E1%93%AB%E2%88%97)%22)&center=true">
 	</a>
 </h1>
 
+<!-- 图片 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <!-- 个人资料徽标 -->
@@ -14,12 +16,12 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=xuanquanchen" alt="访客统计" /></div>
 
-# Hello
-我是玄泉,目前就读于暨南大学计算机科学与技术专业，致力于用代码让世界变得更美好。  
+# Hello🥳
+我是玄泉,目前就读于暨南大学计算机科学与技术专业，致力于用技术让世界变得更美好。  
 My name is Xuan Quan. I'm studying computer Science and Technology in Jinan University.  
 We're making the world a better place through software together!
 
 <div align="center">
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=xuanquanchen&count_private=true&theme=vue">
 	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanquanchen&layout=compact">
-																														</div>
+</div>
