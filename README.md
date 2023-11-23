@@ -21,6 +21,8 @@
 My name is Xuan Quan. I'm studying computer Science and Technology in Jinan University.  
 We're making the world a better place through software together!
 
+<a href="https://xuanquanchen.github.io">这是我的中文简历 Check my chinese resume here!</a>
+
 <div align="center">
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=xuanquanchen&count_private=true&theme=vue">
 	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanquanchen&layout=compact">
