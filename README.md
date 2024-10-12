@@ -19,7 +19,7 @@
 # Hello🥳
 我是玄泉,目前是约翰霍普金斯计算机科学与技术研究生，曾就读于暨南大学，致力于用技术让世界变得更美好。  
 My name is Xuan Quan, currently a graduate student in Computer Science and Technology at Johns Hopkins University and previously studied at Jinan University.
-We're making the world a better place through software together!
+We're making the world a better place through software together!<br>
 私は玄泉です。現在、ジョンズ・ホプキンス大学でコンピュータサイエンスと技術を専攻している大学院生です。かつては暨南大学で学び、技術を通じて世界をより良くすることを目指しています。
 
 <a href="https://xuanquanchen.github.io">这是我的中文简历 Check my chinese resume here!</a>
