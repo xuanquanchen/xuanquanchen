@@ -19,8 +19,6 @@ My name is Xuan Quan, currently a graduate student in Computer Science and Techn
 We're making the world a better place through software together!<br>
 私は玄泉です。現在、ジョンズ・ホプキンス大学でコンピュータサイエンスと技術を専攻している大学院生です。かつては暨南大学で学び、技術を通じて世界をより良くすることを目指しています。
 
-<a href="https://xuanquanchen.github.io">这是我的中文简历 Check my chinese resume here!</a>
-
 <div align="center">
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=xuanquanchen&count_private=true&theme=vue">
 	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanquanchen&layout=compact">
