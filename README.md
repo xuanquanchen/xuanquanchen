@@ -1,5 +1,3 @@
-# Hello🥳
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/xuanquanchen/xuanquanchen/main/Banner.jpg" 
        alt="Banner" 
