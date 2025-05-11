@@ -1,4 +1,11 @@
 # Hello🥳
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xuanquanchen/xuanquanchen/main/banner.jpg" 
+       alt="Banner" 
+       width="100%" />
+</p>
+
 <div align="left">
 	<p>我是玄泉,目前是约翰霍普金斯计算机科学与技术研究生，曾就读于暨南大学，致力于用技术让世界变得更美好。</p>
   <p>My name is Xuan Quan, currently a graduate student in Computer Science and Technology at Johns Hopkins University and previously studied at Jinan University.We're making the world a better place through software together!</p>
