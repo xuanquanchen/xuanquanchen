@@ -1,7 +1,7 @@
 # Hello🥳
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xuanquanchen/xuanquanchen/main/banner.jpg" 
+  <img src="https://raw.githubusercontent.com/xuanquanchen/xuanquanchen/main/Banner.jpg" 
        alt="Banner" 
        width="100%" />
 </p>
