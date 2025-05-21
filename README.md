@@ -13,7 +13,7 @@
 ---
 
 <ul>
-  <li><strong>📬 How to reach out: 📭</strong> You can email me at <a href="mailto:ym.chen.reachout@outlook.com">yiming.chen@outlook.com</a>, visit my website at <a href="https://xuanquanchen.github.io" target="_blank">https://xuanquanchen.github.io</a>, or connect with me on LinkedIn: <a href="https://www.linkedin.com/in/yiming-chen-a72145318/" target="_blank">linkedin.com/in/yiming-chen-a72145318/</a>.</li>
+  <li><strong>📬 How to reach out: 📭</strong> You can email me at <a href="mailto:ym.chen.reachout@outlook.com">ym.chen.reachout@outlook.com</a>, visit my website at <a href="https://xuanquanchen.github.io" target="_blank">https://xuanquanchen.github.io</a>, or connect with me on LinkedIn: <a href="https://www.linkedin.com/in/yiming-chen-a72145318/" target="_blank">linkedin.com/in/yiming-chen-a72145318/</a>.</li>
 </ul>
 
 ---
