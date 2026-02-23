@@ -6,7 +6,7 @@
 
 ---
 
-  📬 Reach out me at <a href="mailto:ym.chen.reachout@outlook.com">ym.chen.reachout@outlook.com</a> or <a href="hey@yikmingchen.com">hey@yikmingchen.com</a>
+  📬 Reach out me at <a href="hey@yikmingchen.com">hi@yikmingchen.com</a>
 
 ---
 
@@ -16,7 +16,7 @@
 	<a href="https://www.linkedin.com/in/yiming-chen-a72145318/">LinkedIn</a> .
     <a href="https://yikmingchen.com/posts">blog</a> .
     <a href="https://yikmingchen.com/projects">projects</a> .
-    <a href="https://yikmingchen.com/photos">photos</a> .
+    <a href="https://yikmingchen.com/photos">photos</a>
   </samp>
 </p>
 
